@@ -1,0 +1,21 @@
+estacion,fuente,fecha,hora,calidad_global,CO,O3,NO2,NOX,NO,PM10,PM2.5,SO2
+Ajusco Medio,SINAICA,2025-12-16,11.0,Buena,1.0,0.025,0.028,,0.016,27.0,16.0,0.001
+Ajusco Medio,OPENAQ,2025-12-16,10.0,Buena,0.9,0.015,0.022,0.044,0.021,22.0,,0.001
+Benito Juárez,OPENAQ,2025-12-16,10.0,Buena,1.4,0.012,0.04,,,31.0,,
+Camarones,SINAICA,2025-12-16,9.0,Regular,1.4,0.003,0.037,,0.085,27.0,19.0,0.002
+Camarones,OPENAQ,2025-12-16,9.0,Regular,1.4,0.003,0.037,0.122,0.085,27.0,,0.002
+Centro de Ciencias de la Atmósfera,SINAICA,2025-12-16,11.0,Buena,1.0,0.026,0.032,,0.025,,12.0,0.001
+Centro de Ciencias de la Atmósfera,OPENAQ,2025-12-16,10.0,Buena,1.0,0.014,0.028,0.068,0.04,,,0.001
+Cuajimalpa,OPENAQ,2025-12-16,10.0,Regular,,0.012,0.03,0.086,0.056,,,0.002
+Gustavo A. Madero,SINAICA,2025-12-16,11.0,Buena,,0.016,0.052,,,51.0,26.0,
+Gustavo A. Madero,OPENAQ,2025-12-16,10.0,Buena,,0.007,0.046,,,55.0,,
+Hospital General de México,SINAICA,2025-12-16,11.0,Buena,1.3,0.021,0.047,,0.029,,,0.002
+Hospital General de México,OPENAQ,2025-12-16,10.0,Regular,1.9,0.006,0.051,0.126,0.075,,,0.003
+Merced,SINAICA,2025-12-16,11.0,Buena,1.8,0.019,0.061,,0.05,45.0,24.0,0.003
+Merced,OPENAQ,2025-12-16,10.0,Regular,1.9,0.007,0.054,0.133,0.079,45.0,,0.003
+Miguel Hidalgo,SINAICA,2025-12-16,11.0,Buena,1.4,0.016,0.058,,0.048,,,
+Miguel Hidalgo,OPENAQ,2025-12-16,10.0,Regular,1.7,0.006,0.054,0.139,0.085,,,
+Pedregal,SINAICA,2025-12-16,11.0,Buena,0.8,0.019,0.028,,0.017,25.0,16.0,0.001
+Pedregal,OPENAQ,2025-12-16,10.0,Buena,,0.009,0.029,0.059,0.03,23.0,,0.001
+Santiago Acahualtepec,SINAICA,2025-12-16,11.0,Buena,1.2,0.03,0.042,,0.018,,0.0,
+Santiago Acahualtepec,OPENAQ,2025-12-16,10.0,Buena,,,,0.069,0.032,,,
